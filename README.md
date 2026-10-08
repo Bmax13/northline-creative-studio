@@ -1,2 +1,5 @@
-# northline-creative-studio
-Bold responsive creative agency website built with HTML, Tailwind CSS and JavaScript.
+# Northline Studio
+
+Editorial creative agency
+
+Stack: HTML5, Tailwind CSS, Vanilla JavaScript.
